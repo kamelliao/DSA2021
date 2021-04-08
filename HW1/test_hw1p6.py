@@ -63,7 +63,7 @@ class Data():
 
     def delete(self, position):
         self.arr.pop(position - 1)
-        self.n -= self.n
+        self.n -= 1
     
     def reverse(self, start, end):
         self.arr = self.arr[:start - 1] + self.arr[start - 1:end][::-1] + self.arr[end:]
