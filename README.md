@@ -1,6 +1,8 @@
-# DSA2021
+# DSA2021 Assignments
 
-Assignments of the course Data Structure and Algorithm (CSIE1212), 2021 Spring.
+> Course Name: Data Structure and Algorithm (CSIE1212)  
+> Semester: 2021 Spring  
+> Instructor: Hsuan-Tien Lin, Hsin-Mu (Michael) Tsai  
 
 ### Homework 1
 | No.       | Idea                         |
